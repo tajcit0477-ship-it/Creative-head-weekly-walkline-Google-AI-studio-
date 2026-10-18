@@ -1,0 +1,8 @@
+{
+  "name": "Creative Head Weekly Workline",
+  "description": "Operational weekly workline, shift checklists, and event reminder system for Night Club & Dining Creative Heads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
